@@ -2,3 +2,5 @@ name: Abi Sowri
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-hacker
